@@ -1,5 +1,5 @@
 #include<stdio.h>
 int main() {
-    printf("Hello This is atul tiwaree...!! And i'm gay..!!");
+    printf("Bol do na jara");
     return 0;
 }
